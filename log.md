@@ -1,6 +1,14 @@
 # 100 Days Of Code - Log
 
-### Day 2: February 4, 2021
+### Day 3: February 6, 2021
+
+**Today's Progress**: Didn't get to do any of the data analysis course today, but got about an hour on my shopping list project, and I finally got my dropdown menus to work! 
+
+**Thoughts**: The debugger is super powerful tool and quite honestly a lifesaver. It turns out the root of my dropdown menu problems was that when I was creating a list of results from the database call to get things such as units, store departments, and stores, the elements in the list were not being stored as strings, but as single-element tuples containing the string. Ultimately, the problem was fixed with the addition of three characters. The feeling of relief after solving what had previously been a large problem is a powerful one. Also, never underestimate the power of just going to bed or doing something to take your mind off the issue can do to help. Feeling pretty satisified and looking forward to continuing on the project. 
+
+**Links to work:** https://github.com/jmacdonald2010/shopping-list/tree/in-progress
+
+### Day 2: February 5, 2021
 
 **Today's Progress**: Completed a couple more lessons in the data analysis course. Trying and build a dropdown in my shopping list app using values from the database (so the item entries can be normalized) and finding every way that doesn't work. I'm not sure what I'm doing wrong but this is exceptionally difficult to accomplish in kivy using multiscreens.
 
