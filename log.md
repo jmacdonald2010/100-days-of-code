@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 4: February 7, 2021
+
+**Today's Progress**: Worked more on my shopping list today and got it to write to the database. Still working on the best way to auto-clear the entry fields after adding the items, but it doesn't seem like it should be too difficult a problem.
+
+**Thoughts**: Now that I've sorted out my dropdown issue, I feel like I'm making quick work out of this project, although in reality, I still have a lot of work ahead of me. It's quite amazing how something so simple can have so many small parts that require so much time. I'm not necessarily complaining about it, but when I set out on this project there's a lot I've had to deal with that I didn't imagine I would. Either way, I'm enjoying working on it, and enjoying coding in general. Also, I remembered that my monitor mount can turn one of my screen to a portrait orientation, which is a nice change.
+
+**Links to work:** https://github.com/jmacdonald2010/shopping-list/tree/in-progress
+
 ### Day 3: February 6, 2021
 
 **Today's Progress**: Didn't get to do any of the data analysis course today, but got about an hour on my shopping list project, and I finally got my dropdown menus to work! 
