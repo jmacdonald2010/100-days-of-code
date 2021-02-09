@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 5: February 8, 2021
+
+**Today's Progress**: The add item screen now writes properly to the database and clears fields as it should. It also seems like it auto-clears and stops users from creating errors. I've figured out how to create the accordion dropdown widgets with Kivy, but I'm running into some weird GUI overlapping issues. Suspecting it may be a background thing, but either way I'll find out soon enough.
+
+**Thoughts**: Creating an app w/ a GUI is a completely different beast from the rest of what one learns about coding. Getting my info to display properly is honestly not too difficult, but getting all of the menus and features to work properly in a graphical-user way is a new experience for me (the GUIs I made with Max/MSP as a grad student were usually pretty rough). Although this project has been a lot more intense than I expected, I am realizing that I actually really like writing code.
+
+**Links to work:** https://github.com/jmacdonald2010/shopping-list/tree/in-progress
+
 ### Day 4: February 7, 2021
 
 **Today's Progress**: Worked more on my shopping list today and got it to write to the database. Still working on the best way to auto-clear the entry fields after adding the items, but it doesn't seem like it should be too difficult a problem.
