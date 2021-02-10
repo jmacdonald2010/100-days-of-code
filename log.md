@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 6: February 9, 2021
+
+**Today's Progress**: Got through two more of the lessons in the freeCodeCamp python data analysis course and learned some useful information on pandas dataframes. Worked a bit more on my shopping list app, and decided to actually utilize pandas dataframes as a way to make organization of my data easier.
+
+**Thoughts**: I didn't get as much development on my shopping list project done today as I would've liked. I didn't get a free minute to sit down and work on my project until after 10:30 PM, and I'm trying to go to bed earlier because I haven't been sleeping enough recently. Honestly, if I weren't doing 100 days of code, I likely would have just put work on this project off until tomorrow night, but I hadn't quite gotten in an hour today yet, and honestly, it feels nice to have gotten some work done, even if it was just a little bit.
+
+**Links to work:** Shopping List: https://github.com/jmacdonald2010/shopping-list/tree/in-progress
+freeCodeCamp: https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-course/pandas-creating-columns
+
 ### Day 5: February 8, 2021
 
 **Today's Progress**: The add item screen now writes properly to the database and clears fields as it should. It also seems like it auto-clears and stops users from creating errors. I've figured out how to create the accordion dropdown widgets with Kivy, but I'm running into some weird GUI overlapping issues. Suspecting it may be a background thing, but either way I'll find out soon enough.
