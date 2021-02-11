@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 7: February 10, 2021
+
+**Today's Progress**: Worked a good bit on the shopping list app. Got the accordion item dropdown menus to populate with data from the database. Trying to figure out how to use kivy toggle buttons to write if the item has been collected or not.
+
+**Thoughts**: Didn't have as much time to work early in the day as I would've liked. Typically, I like to do the course work in the morning before work, and the project work after dinner in the evening. Had to run a bunch of errands this morning, so the course work didn't happen, but I feel like I'm making solid progress on this shopping list app, and maybe, just maybe, it could be finished at the end of the month (whether or not it ends up on iOS depends on my ability to gain access to macOS Big Sur, as I'm running High Sierra largely for music purposes). 
+
+**Links to work:** Shopping List: https://github.com/jmacdonald2010/shopping-list/tree/in-progress
+
+
 ### Day 6: February 9, 2021
 
 **Today's Progress**: Got through two more of the lessons in the freeCodeCamp python data analysis course and learned some useful information on pandas dataframes. Worked a bit more on my shopping list app, and decided to actually utilize pandas dataframes as a way to make organization of my data easier.
