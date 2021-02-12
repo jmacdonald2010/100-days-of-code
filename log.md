@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 8: February 11, 2021
+
+**Today's Progress**: Completed a couple more courses in the python data analysis course. Progress with the shopping last app wasn't much for the amount of time working on it. Toggle buttons are still problematic.
+
+**Thoughts**: Being stuck on the same problem for multiple coding sessions is incredibly frustrating. I need to use for loops to create the labels and buttons in my shopping list app, so I also need to use a for loop to bind the on_press action to that button (as far as I'm aware), however, kivy always assigns the same binding to all buttons from the last iteration from the for loop. This feels like a fairly deep problem that is going to take a lot of digging to figure out, because as of right now, I am lost for solutions on how to actually get these toggle buttons to work right. Feels like I'm gonna be stuck on this frustrating problem for a few days.
+
+**Links to work:** Shopping List: https://github.com/jmacdonald2010/shopping-list/tree/in-progress
+freeCodeCamp Python Data Analysis course: https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-course/data-cleaning-with-dataframes
+
 ### Day 7: February 10, 2021
 
 **Today's Progress**: Worked a good bit on the shopping list app. Got the accordion item dropdown menus to populate with data from the database. Trying to figure out how to use kivy toggle buttons to write if the item has been collected or not.
