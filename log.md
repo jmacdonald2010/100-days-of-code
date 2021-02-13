@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 9: February 12, 2021
+
+**Today's Progress**: Found the beginning of the solution of my toggle button issue for my shopping list app. It's still very problematic, but I've found the start to the solution. 
+
+**Thoughts**: Didn't get to do any coursework today, but that's okay, but that was expected, as today was payday and I needed to spend my time this morning dealing with personal finances and budgeting and all that. On the note of code though, I am relieved that I have finally began to find the solution to my toggle button issue. There's still a lot of work to do (there seems to be an issue where the # of times the thing prints increases every time something is pressed? also getting it to return the keys might actually not be super straight ahead?). Regardless, I'm glad to have made just the slightest breakthrough today on this issue. I don't imagine I'll have a lot of time to work this weekend (I need to do a lot of housework this weekend), but hopefully I'll get to properly writing to the database with these toggle buttons by next week.
+
+**Links to work:** Shopping List: https://github.com/jmacdonald2010/shopping-list/tree/in-progress
+
 ### Day 8: February 11, 2021
 
 **Today's Progress**: Completed a couple more courses in the python data analysis course. Progress with the shopping last app wasn't much for the amount of time working on it. Toggle buttons are still problematic.
