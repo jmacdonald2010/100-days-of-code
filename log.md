@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 10: February 13, 2021
+
+**Today's Progress**: Finally figured out my toggle button problem. Code isn't necessarily terribly tidy, but the toggle change the collected value in the database and that's good enough for me.
+
+**Thoughts**: Didn't have as much time to code today as I would've liked, but with Saturdays being the day I work late, it's not terribly surprising. Honestly, I don't think I even got an hours worth of coding in (probably pretty close, or at least an hour if you're not counting moments where I'm talking with others and not coding), but I feel like it counts as a day in 100 Days of Code because I solved another big problem. In other news, I'm starting to get interested in pygame (and by that, I mean I started reading into a bit during my breaks this afternoon). Since my goal is to change careers into software development/data analysis, I need to become solid on the basics of python, but I like the idea of potentially using pygame to create some interactive audiovisual content, or maybe even some kind of experimental video game, that is made through code and can easily be distributed to people. I think when I have my fundamentals done better and my other projects (shopping list and stock prediction) are done I may explore this route. Maybe it would be better to learn C# and unity to do so, but perhaps pygame can do what I need it to (which wouldn't be terribly much). We'll find out when we get there I suppose.
+
+**Links to work:** Shopping List: https://github.com/jmacdonald2010/shopping-list/tree/in-progress
+
 ### Day 9: February 12, 2021
 
 **Today's Progress**: Found the beginning of the solution of my toggle button issue for my shopping list app. It's still very problematic, but I've found the start to the solution. 
