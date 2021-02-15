@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 11: February 14, 2021
+
+**Today's Progress**: Not only are the toggles working the way they are supposed to, now the whole shopping list populates under all of the categories. Still quite a bit more work to do get all of functions I'd like implemented, but I think (famous last words) that it's all downhill from here.
+
+**Thoughts**: I realized at the beginning of the day when I started working that my code was not as robust and scalable as it should be; in order to create each dropdown, I'd need a whole function dedicated to each one, which would involve a lot of duplicate code, which isn't a great thing. In addition to that, I would be stuck with the departments that are hard-coded into the app, which is also something I didn't want. I think that getting this within a base workable range won't be terribly difficult from here, but getting all of the functionality I originally wanted (change order of departments for different stores, exclude some departments for some stores) would take a lot of work and would make the project pretty complex. What I'm planning on doing is staying true to the reason I started this project, which is to make my grocery shopping experiences easier. Ultimately, today was a very productive day, although getting stuck earlier in the rebuilding of most of the main.py file was incredibly frustrating, it all managed to work out.
+ 
 ### Day 10: February 13, 2021
 
 **Today's Progress**: Finally figured out my toggle button problem. Code isn't necessarily terribly tidy, but the toggle change the collected value in the database and that's good enough for me.
