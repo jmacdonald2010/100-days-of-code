@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 12: February 15, 2021
+
+**Today's Progress**: Completed a couple of courses in the python data analysis course. Added a grid layout to the add item menu on my shopping list app. Trying to figure out how to refresh the main page when using the add items feature on the add items page.
+
+**Thoughts**: Every time I think I understand object-oriented programming, I run into something that makes me realizing I still have much to learn. I know that there should be a way to call on a function in my MainScreen class from my AddItems class, but I am struggling to figure out the best way to do it. I feel comfortable saying I understand the basics of OOP (although I could be a bit more solid on inheritance), but I definetly need some more practice with creating and using objects. Not sure if I need to spend more time studying OOP or if I need to spend some time building projects that utilize it more thoroughly.
+
+**Links to work:** Shopping List: https://github.com/jmacdonald2010/shopping-list/tree/in-progress
+freeCodeCamp course: https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-course/data-cleaning-and-visualizations
+
+
 ### Day 11: February 14, 2021
 
 **Today's Progress**: Not only are the toggles working the way they are supposed to, now the whole shopping list populates under all of the categories. Still quite a bit more work to do get all of functions I'd like implemented, but I think (famous last words) that it's all downhill from here.
