@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 13: February 16, 2021
+
+**Today's Progress**: Completed a couple more courses in the data analysis course. Added functionality to the add item button on the add item screen to refresh the main screen when a new item is added. Added a settings dropdown with a delete all button with a popup warning. 
+
+**Thoughts**: I watched through some tutorials today on object oriented programming python again. What I realized I needed was to turn the methods in my MainScreen class to class methods instead of instance methods. I realized this won't be terribly problematic for this project because there will only ever be one instance of the MainScreen class at a time. To get the refresh main screen method to work from the AddItems class, I had to create a global MainScreen object in my MainApp class. I know that global variables are supposed to be dangerous things that are to be avoided at all costs, and I will fully acknowledge that I do not completely understand these dangers, however, using globals makes my app work, and I have seen several other examples using kivy where others have used global variables. Feeling more confident on using OOP in python now, although I do need to study the basic concepts of it more. Also thought up a new simple project: a basic python app that reads recipes, stores as either HTML or PDF files from a local database. My wife and I have used countless recipes we've found online over the years, and as is the nature of the internet, sometimes these recipes disappear forever. Essentially, this would just be a more eco-friendly version of a printed recipe book. Once I get the shopping list app compiled to iOS I think I'll give this a shot, just to make our lives easier.
+
+**Links to work:** Shopping List: https://github.com/jmacdonald2010/shopping-list/tree/in-progress
+freeCodeCamp course: https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-course/reading-data-introduction
+
 ### Day 12: February 15, 2021
 
 **Today's Progress**: Completed a couple of courses in the python data analysis course. Added a grid layout to the add item menu on my shopping list app. Trying to figure out how to refresh the main page when using the add items feature on the add items page.
