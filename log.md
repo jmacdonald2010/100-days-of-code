@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 14, 15: February 17-18, 2021
+
+**Today's Progress**: Completed several lessons in the data analysis course. Only a few more lessons before it's on to the projects. Added new features to my shopping list app. Working on getting a bootable drive with the latest macOS.
+
+**Thoughts**: Had a very productive day yesterday, got a lot of coursework done, and made some decent strides on my project. I decided since I was going to have some free time I would start on creating a bootable macOS Big Sur drive. I've hit some unexpected roadblocks with it, and now I'm spending my evening tonight (2/18) working on getting that working. I'm also realizing that I have a lot of junk on the hard drives in my desktop, so I think on Sunday I may spend some time cleaning those out. Although it's not exactly coding work, it's work that supports coding, so I guess that counts. 
+
+**Links to work:** Shopping List: https://github.com/jmacdonald2010/shopping-list/tree/in-progress
+freeCodeCamp course: https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-course/reading-data-introduction
+
 ### Day 13: February 16, 2021
 
 **Today's Progress**: Completed a couple more courses in the data analysis course. Added functionality to the add item button on the add item screen to refresh the main screen when a new item is added. Added a settings dropdown with a delete all button with a popup warning. 
