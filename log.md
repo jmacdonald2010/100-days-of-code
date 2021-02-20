@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 16: February 19, 2021
+
+**Today's Progress**: Small progress today on the shopping list app. Add a select store spinner (dropdown menu) that, at this time, only prints the store chosen and refreshes the main screen. Next steps are to filter the other dropdowns accordingly, and add recently added items to the 'add items' screen. After that, it's time to port a rough version to iOS.
+
+**Thoughts**: Kinda getting tired. Made some progress on my shopping list app today, but starting to feel the pull to work on other projects before this one is complete. I spent a fair bit of time today looking into ways to change the first python project I built to make it more efficient and get more data. When I built it originally, I didn't understand JSON, so I ended up parsing the API data as a giant string using a regular expression I found on stackoverflow. Now, I realize I could clean it up by using the JSON library. I also have been considering other ways of getting my data apart from the rapidAPI Fidelity Investments API. Unfortunately, Fidelity doesn't have a public API, and webscraping a dynamic site that requires login with two-factor authentication is excetionally difficult (if not outright prohibited by the T&Cs). Currently looking into ways to just automate FireFox browsing their site and extracting the HTML to parse it, which would be a fun little project. And not terribly related, but Fridays are not terribly productive for me, because, well, it's Friday, and I typically spend my mornings before work getting my finances in line, so I don't get the opportunity to do coursework, but it is also Friday, and I do need some time to not work.
+
+**Links to work:** Shopping List: https://github.com/jmacdonald2010/shopping-list/tree/in-progress
+
 ### Day 14, 15: February 17-18, 2021
 
 **Today's Progress**: Completed several lessons in the data analysis course. Only a few more lessons before it's on to the projects. Added new features to my shopping list app. Working on getting a bootable drive with the latest macOS.
