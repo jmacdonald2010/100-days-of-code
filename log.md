@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 17: February 20, 2021
+
+**Today's Progress**: Not a ton of work done in terms of time but got some important features implemented. Added a select store dropdown in the settings to filter the shopping list by store. Since this was a significant feature to add and things are in what I would consider a usable state, I made another merge to the main branch.
+
+**Thoughts**: I only have two more features to implement in my shopping list app before I would be comfortable compiling it to iOS and using it on a regular basis. I need to do text wrapping in the grid layouts (I can only image how bad it would look w/o that on my small iPhone), and i want to add a list of recently added items to the add items screen. While there are some other fixes or features I can think of that would be nice, such as a cloud-hosted database to allow different users to access it, but that would require a lot more work (and also learning more new frameworks). While I may someday come back and add these features, I think I'd have more to learn by dedicating some more time to other projects. I feel like getting it onto iOS is going to be a task itself that may take just as long as the rest of this project, but we'll see.
+
+**Links to work:** Shopping List: https://github.com/jmacdonald2010/shopping-list/tree/in-progress
+
 ### Day 16: February 19, 2021
 
 **Today's Progress**: Small progress today on the shopping list app. Add a select store spinner (dropdown menu) that, at this time, only prints the store chosen and refreshes the main screen. Next steps are to filter the other dropdowns accordingly, and add recently added items to the 'add items' screen. After that, it's time to port a rough version to iOS.
