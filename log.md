@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 18: February 22, 2021
+
+**Today's Progress**: Figured out text wrapping in the shopping list app. Added the start to a recently added items list to the add item screen. Needs formatting.
+
+**Thoughts**: I could have considered yesterday to be day 18, but I didn't actually spend any time working on my coding projects or courses. Intead, I got my Big Sur boot drive working. After that, I attempted to install Ubuntu on a different drive in my computer. It runs very smoothly, and I was impressed to see that my trackpad (Apple Magic Trackpad 2) had native support. However, although the OS installed to the correct drive, Ubuntu placed the Clover bootloader on the same EFI partition as my High Sierra drive (the one I use for pretty much everything, coding, music, work, etc.). Getting High Sierra to boot again was not easy; I tried removing the Ubuntu bootloader, blacklisting it in the BIOS, deleting the old Clover bootloader, installing a new one, and booting from a USB drive, none of which worked. In the end, I just ended up installing Opencore to boot my High Sierra drive, and it worked. I could consider that coding if I really wanted to (and it was a valuable, yet stressful experience). I'm not recording it as a day of coding but treating it like I didn't miss the day given the intensive problem solving I had to do. In other news, I will be starting the final projects for the python data analysis course on freeCodeCamp soon, and am nearing completion of my shopping list app.
+
+**Links to work:** Shopping List: https://github.com/jmacdonald2010/shopping-list/tree/in-progress
+
 ### Day 17: February 20, 2021
 
 **Today's Progress**: Not a ton of work done in terms of time but got some important features implemented. Added a select store dropdown in the settings to filter the shopping list by store. Since this was a significant feature to add and things are in what I would consider a usable state, I made another merge to the main branch.
